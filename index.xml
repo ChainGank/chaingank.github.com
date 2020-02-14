@@ -5,7 +5,8 @@
     <link>http://chaingank.github.io/</link>
     <description>Recent content on Chain_Gank</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
     
 	<atom:link href="http://chaingank.github.io/index.xml" rel="self" type="application/rss+xml" />
     
