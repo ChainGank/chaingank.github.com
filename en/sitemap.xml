@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://chaingank.github.io/categories/</loc>
+    <loc>https://chaingank.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://chaingank.github.io/fr/categories/"
+                href="https://chaingank.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaingank.github.io/categories/"
+                href="https://chaingank.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://chaingank.github.io/</loc>
+    <loc>https://chaingank.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://chaingank.github.io/fr/"
+                href="https://chaingank.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaingank.github.io/"
+                href="https://chaingank.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://chaingank.github.io/tags/</loc>
+    <loc>https://chaingank.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://chaingank.github.io/fr/tags/"
+                href="https://chaingank.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://chaingank.github.io/tags/"
+                href="https://chaingank.github.io/tags/"
                 />
   </url>
   
